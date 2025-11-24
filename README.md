@@ -10,7 +10,7 @@ El modelo fue entrenado con el algoritmo **Random Forest** y se implementó un d
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 ### 1. Instalar dependencias
 Ejecutar en consola:
@@ -22,7 +22,7 @@ Dentro de la carpeta del proyecto:
 
 ---
 
-## 📂 Archivos principales
+##  Archivos principales
 
 - **train_model.py** → Entrenamiento del modelo  
 - **Proyect.py** → Dashboard en Streamlit  
@@ -33,7 +33,7 @@ Dentro de la carpeta del proyecto:
 
 ---
 
-## 👥 Integrantes del grupo
+##  Integrantes del grupo
 - Nilson Coronell  
 - Jose Delgado
 - Ronald Rodriguez
