@@ -35,5 +35,6 @@ Dentro de la carpeta del proyecto:
 
 ## 👥 Integrantes del grupo
 - Nilson Coronell  
-
+- Jose Delgado
+- Ronald Rodriguez
 
